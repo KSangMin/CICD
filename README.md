@@ -11,4 +11,4 @@
 
 03, b, 17:00 good code 스테이징에 잘못된 코드 올라가서 전체 unstage & discard
 
-from 7 node
+conflict 해결됨
