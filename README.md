@@ -10,3 +10,5 @@
 02, r, 17:00 good code
 
 03, b, 17:00 good code 스테이징에 잘못된 코드 올라가서 전체 unstage & discard
+
+from 6 node
